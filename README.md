@@ -4,7 +4,7 @@
   * Sebastian Duque Gallego    20162020039
  
 #### Introduccion:
-El proposito de este proyecto es recibir un archivo txt el cual contenga una matriz cuadrada, consiste en imprimirla como si fuera en caracol,Como en la imagen que se observa ![asd](https://user-images.githubusercontent.com/42306260/52100943-a59ff300-25a7-11e9-8463-d0565cae2c65.jpg)
+El proposito de este proyecto es recibir un archivo txt el cual contenga una matriz cuadrada, consiste en imprimirla como si fuera en caracol,Como en la imagen que se observa,obviamente sin repetir ninguna fila o columna que ya se imprimiera ![asd](https://user-images.githubusercontent.com/42306260/52100943-a59ff300-25a7-11e9-8463-d0565cae2c65.jpg)
 
 #### Funciones:
  * cargar_archivo: Funcion que retorna el archivo de texto
